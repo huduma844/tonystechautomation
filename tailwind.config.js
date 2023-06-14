@@ -8,8 +8,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        burtons: "burtons",
-        poppins: ["Poppins", "sans-serif"],
+        fatface: ['Abril Fatface', 'sans-serif'],
+        arvo: ["Arvo", " Geometric slab-serif"],
+        lato: ['Lato', 'sans-serif'],
       },
     },
   },
